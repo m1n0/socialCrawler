@@ -1,6 +1,6 @@
 beautifulsoup4==4.6.3
 bs4==0.0.1
-certifi==2018.10.15
+certifi==2022.12.7
 chardet==3.0.4
 -e git+git@github.com:m1n0/chromote.git@dcfc8ed3cf76cb6c5e2127666a6ccc70ac84a8de#egg=chromote
 idna==2.7
